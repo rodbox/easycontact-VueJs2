@@ -3,6 +3,10 @@
 Version Beta fonctionnel VueJs du front EasyContact en connextion avec ContactBundle
 Voir la TODO pour les améliorations.
 
+Update :
+- Ajout du moteur de recherche 
+- Trie par ordre alphabetique 
+
 ## Configuration
 
 Ajouter le ContactModule dans le strore Vuex

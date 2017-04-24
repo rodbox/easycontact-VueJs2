@@ -80,7 +80,7 @@ const actions = {
 **/
 
 /**
-* TODO : Créer un champ de recherche par Nom et un filtre pour ordonné le resultat par ordre alphabétique
+* TODO : Ajouter l'upload de photo pour une fiche
 **/
 
 /**
